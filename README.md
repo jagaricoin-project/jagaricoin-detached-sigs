@@ -1,1 +1,1 @@
-jagaricoin-detached-sigs 
+jagaricoin-detached-sigs
